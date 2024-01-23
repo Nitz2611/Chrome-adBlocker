@@ -11,4 +11,5 @@
         "action": {"type":"block"},
         "condition": { "urlFilter": "*://googleadservices.com/*"}
     }
+    
 ]
