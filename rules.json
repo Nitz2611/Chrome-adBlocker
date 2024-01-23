@@ -10,6 +10,60 @@
         "priority": 1,
         "action": {"type":"block"},
         "condition": { "urlFilter": "*://googleadservices.com/*"}
+    },
+    {
+        "id": 3,
+        "priority": 1,
+        "action": {"type":"block"},
+        "condition": { "urlFilter": "*://partner.googleadservices.com/*"}
+    },
+    {
+        "id": 4,
+        "priority": 1,
+        "action": {"type":"block"},
+        "condition": { "urlFilter": "*://*.googlesyndication.com/*"}
+    },
+    {
+        "id": 5,
+        "priority": 1,
+        "action": {"type":"block"},
+        "condition": { "urlFilter": "*://*.google-analytics.com/*"}
+    },
+    {
+        "id": 6,
+        "priority": 1,
+        "action": {"type":"block"},
+        "condition": { "urlFilter": "*://creative.ak.fbcdn.net/*"}
+    },
+    {
+        "id": 7,
+        "priority": 1,
+        "action": {"type":"block"},
+        "condition": { "urlFilter": "*://*.adbrite.com/*"}
+    },
+    {
+        "id": 8,
+        "priority": 1,
+        "action": {"type":"block"},
+        "condition": { "urlFilter": "*://*.exponential.com/*"}
+    },
+    {
+        "id": 9,
+        "priority": 1,
+        "action": {"type":"block"},
+        "condition": { "urlFilter": "*://*.quantserve.com/*"}
+    },
+    {
+        "id": 10,
+        "priority": 1,
+        "action": {"type":"block"},
+        "condition": { "urlFilter": "*://*.scorecardresearch.com/*"}
+    },
+    {
+        "id": 11,
+        "priority": 1,
+        "action": {"type":"block"},
+        "condition": { "urlFilter": "*://*.zedo.com/*"}
     }
     
 ]
