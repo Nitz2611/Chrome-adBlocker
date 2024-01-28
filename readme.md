@@ -22,4 +22,4 @@ This is a simple Chrome extension designed to block unwanted advertisements on w
 
 ## Disclaimer
 
-This extension is provided as-is and may not block all types of advertisements. It is recommended to use multiple layers of security, including browser settings and other extensions, for a more comprehensive ad-blocking experience.
+This extension is provided as-is and may not block all types of advertisements. It is recommended to use multiple layers of security, including browser settings and other extensions, for a more comprehensive ad-blocking experience. It can't block Youtube ads
